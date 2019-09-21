@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\rle.o
+./release\huffman.o
+./release\thread1.o
+./release\des.o
+./release\rc4.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_thread1.o
+);
